@@ -7,6 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class StockpriceApplication {
 
 	public static void main(String[] args) {
+		System.out.println("First git commit");
 		SpringApplication.run(StockpriceApplication.class, args);
 	}
 }
